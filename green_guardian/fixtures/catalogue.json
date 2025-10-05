@@ -1,0 +1,67 @@
+[
+ {
+  "attach": "/files/Slidder3.png",
+  "description": "decorate your home with this beautiful Planters",
+  "discount_text": "upto 45% off",
+  "docstatus": 0,
+  "doctype": "Catalogue",
+  "image_name": "Slidder 3",
+  "image_path": "/files/Slidder3.png",
+  "modified": "2025-09-06 20:41:57.113994",
+  "name": "Slidder 3",
+  "slidder": 1,
+  "type": "Plant Accessories"
+ },
+ {
+  "attach": "/files/banner1.jpg",
+  "description": "House Plants",
+  "discount_text": "New Arrivals",
+  "docstatus": 0,
+  "doctype": "Catalogue",
+  "image_name": "House Plants",
+  "image_path": "/files/banner1.jpg",
+  "modified": "2025-09-06 20:57:05.104440",
+  "name": "House Plants",
+  "slidder": 0,
+  "type": "Indoor Plants"
+ },
+ {
+  "attach": "/files/banner2.jpg",
+  "description": "Office Plants",
+  "discount_text": "New Arrivals",
+  "docstatus": 0,
+  "doctype": "Catalogue",
+  "image_name": "Office Plants",
+  "image_path": "/files/banner2.jpg",
+  "modified": "2025-09-06 20:57:41.594739",
+  "name": "Office Plants",
+  "slidder": 0,
+  "type": "Indoor Plants"
+ },
+ {
+  "attach": "/files/slider1.png",
+  "description": "plant big sale special offer",
+  "discount_text": "upto 35% off",
+  "docstatus": 0,
+  "doctype": "Catalogue",
+  "image_name": "Slidder 1",
+  "image_path": "/files/slider1.png",
+  "modified": "2025-09-06 15:43:40.172908",
+  "name": "Slidder 1",
+  "slidder": 1,
+  "type": "Plant Nutrients"
+ },
+ {
+  "attach": "/files/slider2eb23e5.png",
+  "description": "On Interior Plants which makes you happy",
+  "discount_text": "upto 45% off",
+  "docstatus": 0,
+  "doctype": "Catalogue",
+  "image_name": "Slidder 2",
+  "image_path": "/files/slider2eb23e5.png",
+  "modified": "2025-09-05 18:36:31.031891",
+  "name": "Slidder 2",
+  "slidder": 1,
+  "type": "Indoor Plants"
+ }
+]

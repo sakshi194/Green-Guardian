@@ -5,6 +5,16 @@ app_description = "Green Guardian"
 app_email = "potesakshi194@gmail.com"
 app_license = "mit"
 
+fixtures = [
+    {"doctype": "Web Page"},
+    {"doctype": "Web Template"},
+    {"doctype": "Web Form"},
+    {"doctype": "Website Settings"},
+    {"doctype": "Product"},
+    {"doctype": "Catalogue"},
+    {"doctype": "Category"},
+]
+
 # Apps
 # ------------------
 
