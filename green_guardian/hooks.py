@@ -15,6 +15,13 @@ fixtures = [
     {"doctype": "Category"},
 ]
 
+
+
+app_include_js = [
+    "/assets/green_guardian/js/hey_frappe.js"
+]
+
+
 # Apps
 # ------------------
 
